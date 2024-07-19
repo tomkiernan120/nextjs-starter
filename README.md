@@ -32,6 +32,8 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 - useReact
 - @uidotdev/usehooks
 - storybook
+- patch-package
+- jest
 
 ## Learn More
 
